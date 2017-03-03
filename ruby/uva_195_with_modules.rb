@@ -12,7 +12,7 @@ def get_permutation_list(letters_sequence)
 
   permutation_list = letters_sequence.permutation.to_a
 
-  permutation_list = permutation_list.map{|x| x.join('')}
+  permutation_list = permutation_list.map{|x| x.join("")}
 
   return permutation_list.uniq
 end
