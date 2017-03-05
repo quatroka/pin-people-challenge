@@ -17,4 +17,4 @@
 
 ### Para executar o script sem módulos
 
-    python uva_195_with_modules.py
+    python uva_195_without_modules.py

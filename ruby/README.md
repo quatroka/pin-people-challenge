@@ -17,4 +17,4 @@
 
 ### Para executar o script sem módulos
 
-    ruby uva_195_with_modules.py
+    ruby uva_195_without_modules.py
