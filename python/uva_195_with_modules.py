@@ -1,4 +1,6 @@
 """ File to resolve UVa problem 195 - Anagram. """
+""" https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=131 """
+
 from itertools import permutations
 
 
