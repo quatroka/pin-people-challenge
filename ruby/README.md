@@ -11,10 +11,6 @@
 
     ruby tests/test_*.rb
 
-### Para executar o script com módulos
+### Para executar o script
 
     ruby uva_195_with_modules.py
-
-### Para executar o script sem módulos
-
-    ruby uva_195_without_modules.py

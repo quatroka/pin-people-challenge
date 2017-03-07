@@ -1,6 +1,6 @@
 # Test File for UVa problem 195 - Anagram
 
-require_relative "../uva_195_with_modules"
+require_relative "uva_195_with_modules"
 require "test/unit"
 
 

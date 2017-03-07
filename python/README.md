@@ -11,10 +11,6 @@
 
     python -m unittest discover tests
 
-### Para executar o script com módulos
+### Para executar o script
 
     python uva_195_with_modules.py
-
-### Para executar o script sem módulos
-
-    python uva_195_without_modules.py
